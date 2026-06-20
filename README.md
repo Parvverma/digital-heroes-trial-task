@@ -3,7 +3,7 @@
 A clean, blazing-fast, client-side image optimization tool built for the **Digital Heroes** developer trial task. This tool helps web developers and eCommerce store owners compress heavy PNG/JPG images and instantly convert them into modern, lightweight `.webp` formats to drastically improve website loading speeds and SEO performance.
 
 ## 🔗 Live Links
-*   **Live Deployed Tool:** [PASTE_YOUR_VERCEL_LIVE_URL_HERE]
+*   **Live Deployed Tool:** (https://digital-heroes-trial-task.vercel.app/)
 *   **Company Website:** (https://digitalheroesco.com)
 
 ---
